@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/chandan9369/Responsive-Clipboard-landing-page)
 - Live Site URL: [Add live site URL here](https://responsive-clipboard-landing-page.netlify.app/)
 
 ### Built with
